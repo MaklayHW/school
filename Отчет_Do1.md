@@ -53,6 +53,32 @@ sudo (SuperUser DO) позволяет авторизованным пользо
 <img width="773" height="585" alt="image" src="https://github.com/user-attachments/assets/3f82b3ec-f372-4b85-952e-9b8e7ed86c70" />
 ctrl + o, enter, ctrl + x
 
+<img width="824" height="594" alt="image" src="https://github.com/user-attachments/assets/354a307c-d30a-4e13-9532-48e8aab8befe" />
+ctrl + k, x
+
+<img width="809" height="608" alt="image" src="https://github.com/user-attachments/assets/873686a5-bf71-4dc4-9afc-eaa7d3f7afc8" />
+:q1 enter
+
+<img width="803" height="591" alt="image" src="https://github.com/user-attachments/assets/ec14a629-30c4-4d46-99bb-178fdc061fc6" />
+ctrl + x, n
+<img width="803" height="585" alt="image" src="https://github.com/user-attachments/assets/5d33bfef-1131-4d91-ab81-077d81b585d6" />
+ctrl + c, y
+
+<img width="801" height="602" alt="image" src="https://github.com/user-attachments/assets/41a0b9b2-9a43-4c6d-a72c-ab354597f0ba" />
+<img width="360" height="601" alt="image" src="https://github.com/user-attachments/assets/dea46104-a6d9-4e08-90a4-06051082e4cd" />
+
+<img width="475" height="547" alt="image" src="https://github.com/user-attachments/assets/f7f9ad43-0ca9-4c82-ae17-6925e86e3c7f" />
+Alt + R, School, enter, uni, enter, a
+<img width="122" height="25" alt="image" src="https://github.com/user-attachments/assets/418c9a4a-5968-44ca-a8aa-1c440fe74610" />
+Ctrl + k, f, r
+
+
+
+
+
+
+
+
 
 
 
