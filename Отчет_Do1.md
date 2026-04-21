@@ -1,5 +1,6 @@
-## ping ya.ruPart 1
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/nitaalvi/Desktop/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-04-18%20%D0%B2%2022.21.21.png?version%3D1776540112135)
+## Part 1
+<img width="254" height="43" alt="image" src="https://github.com/user-attachments/assets/597d8bac-1214-435d-a209-2d625e55a438" />
+
 Узнаем версию Ubuntu, выполнив команду
 cat /etc/issue
 ## Part2
