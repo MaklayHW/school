@@ -39,3 +39,6 @@ sudo netplan apply
 ### Part3.7
 <img width="538" height="259" alt="image" src="https://github.com/user-attachments/assets/4c60d30f-2ba2-476b-92dc-be7560f434d3" />
 <img width="565" height="343" alt="image" src="https://github.com/user-attachments/assets/95cf25b7-3634-4962-8b8b-35448ca05c7f" />
+## Part4
+<img width="805" height="114" alt="image" src="https://github.com/user-attachments/assets/196c0b61-e884-497a-84f4-e51c17b375a8" />
+
