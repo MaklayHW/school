@@ -41,4 +41,18 @@ sudo netplan apply
 <img width="565" height="343" alt="image" src="https://github.com/user-attachments/assets/95cf25b7-3634-4962-8b8b-35448ca05c7f" />
 ## Part4
 <img width="805" height="114" alt="image" src="https://github.com/user-attachments/assets/196c0b61-e884-497a-84f4-e51c17b375a8" />
+## Part5
+<img width="364" height="64" alt="image" src="https://github.com/user-attachments/assets/82a956a8-b12a-4df4-a106-41de1aa67b9e" />
+
+sudo (SuperUser DO) позволяет авторизованным пользователям выполнять команды с привилегиями суперпользователя.
+## Part6
+<img width="350" height="232" alt="image" src="https://github.com/user-attachments/assets/e36c35b2-506b-40be-8d2e-01ec98e947dd" />
+## Part7
+<img width="801" height="610" alt="image" src="https://github.com/user-attachments/assets/d8bb07a3-7df2-4d77-aac0-c5709591f1ee" />
+:wq enter
+<img width="773" height="585" alt="image" src="https://github.com/user-attachments/assets/3f82b3ec-f372-4b85-952e-9b8e7ed86c70" />
+ctrl + o, enter, ctrl + x
+
+
+
 
