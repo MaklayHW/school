@@ -3,7 +3,8 @@
 Узнаем версию Ubuntu, выполнив команду
 cat /etc/issue
 ##Part2
-![alt text](file:///Users/nitaalvi/Desktop/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-04-18%20%D0%B2%2022.55.30.png)
+<img width="1100" height="894" alt="Снимок экрана 2026-04-18 в 22 55 30" src="https://github.com/user-attachments/assets/5923e6b2-cb67-46ed-9c83-026c68981f16" />
+
 Создаем нового пользователя adm_user и добавляем его в группу adm, на скриншоте вывод команды cat /etc/passwd
 ![alt text](file:///Users/nitaalvi/Desktop/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-04-18%20%D0%B2%2022.59.55.png)
 Тут показано, что пользователь adm_user находится в группе adm
