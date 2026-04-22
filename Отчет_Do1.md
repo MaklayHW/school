@@ -71,6 +71,32 @@ ctrl + c, y
 Alt + R, School, enter, uni, enter, a
 <img width="122" height="25" alt="image" src="https://github.com/user-attachments/assets/418c9a4a-5968-44ca-a8aa-1c440fe74610" />
 Ctrl + k, f, r
+## Part 8
+<img width="641" height="95" alt="image" src="https://github.com/user-attachments/assets/d048aa92-bf9e-4d6e-bbd8-3e2b8f2f45a6" />
+## Part 9
+<img width="801" height="606" alt="image" src="https://github.com/user-attachments/assets/61d47890-ca0a-4910-b491-64b694ad8038" />
+784 mem
+
+<img width="802" height="603" alt="image" src="https://github.com/user-attachments/assets/f85b4eeb-e7d5-4999-977f-bbef25cd4849" />
+
+<img width="803" height="601" alt="image" src="https://github.com/user-attachments/assets/8ba9fdc7-976f-40b9-91c3-10507e1bf5d9" />
+
+<img width="799" height="599" alt="image" src="https://github.com/user-attachments/assets/803f170e-d9cc-43f9-82bd-63eda2b76dd8" />
+
+<img width="798" height="600" alt="image" src="https://github.com/user-attachments/assets/9fcf4c2d-8ab3-4abc-ba0d-bc1509b0b647" />
+
+<img width="803" height="600" alt="image" src="https://github.com/user-attachments/assets/bdba6eef-960f-4d46-a478-dbaa97ff91f3" />
+
+<img width="804" height="601" alt="image" src="https://github.com/user-attachments/assets/f4a35f73-f076-4dbf-a23f-b6c67e5359a6" />
+
+<img width="797" height="598" alt="image" src="https://github.com/user-attachments/assets/7ff2c037-e6d0-4244-98b7-53be55eaaeca" />
+
+
+
+
+
+
+
 
 
 
