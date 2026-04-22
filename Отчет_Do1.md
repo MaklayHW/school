@@ -1,3 +1,4 @@
+<img width="1071" height="267" alt="Снимок экрана 2026-04-22 в 21 58 26" src="https://github.com/user-attachments/assets/ee5cb6a1-b58d-43f6-9a95-3c6367a05063" />
 ## Part 1
 <img width="254" height="43" alt="image" src="https://github.com/user-attachments/assets/597d8bac-1214-435d-a209-2d625e55a438" />
 
@@ -108,8 +109,16 @@ all 51 Gb, used 6,5Gb, free 42 Gb, 14%, ext4
 
 ## Part14
 <img width="802" height="47" alt="image" src="https://github.com/user-attachments/assets/78f0f060-78ca-42ba-8b0a-b07a06b91b47" />
+## Part15
+
 
 <img width="650" height="85" alt="image" src="https://github.com/user-attachments/assets/ebd264a1-151f-44b3-a296-76e7ad2474b3" />
+
+<img width="714" height="100" alt="image" src="https://github.com/user-attachments/assets/83eb8a85-2571-40f1-8f56-76d273611f05" />
+
+<img width="696" height="150" alt="image" src="https://github.com/user-attachments/assets/b28e6dae-10ee-4158-b735-379b9982a0f2" />
+
+
 
 
 
