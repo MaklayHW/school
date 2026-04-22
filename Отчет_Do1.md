@@ -90,6 +90,12 @@ Ctrl + k, f, r
 <img width="804" height="601" alt="image" src="https://github.com/user-attachments/assets/f4a35f73-f076-4dbf-a23f-b6c67e5359a6" />
 
 <img width="797" height="598" alt="image" src="https://github.com/user-attachments/assets/7ff2c037-e6d0-4244-98b7-53be55eaaeca" />
+## Part14
+<img width="802" height="47" alt="image" src="https://github.com/user-attachments/assets/78f0f060-78ca-42ba-8b0a-b07a06b91b47" />
+
+<img width="650" height="85" alt="image" src="https://github.com/user-attachments/assets/ebd264a1-151f-44b3-a296-76e7ad2474b3" />
+
+
 
 
 
