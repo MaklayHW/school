@@ -104,6 +104,16 @@ all 51 Gb, used 6,5Gb, free 42 Gb, 14%, ext4
 <img width="1536" height="530" alt="image" src="https://github.com/user-attachments/assets/fa29832e-2f59-453a-a35c-46069f4336ad" />
 <img width="637" height="793" alt="Снимок экрана 2026-04-22 в 21 34 37" src="https://github.com/user-attachments/assets/f71764d2-2476-482b-9e0f-4858a02dbd60" />
 
+## Part13
+<img width="540" height="596" alt="image" src="https://github.com/user-attachments/assets/d0515ce2-6d87-44d1-9425-d50e099f4905" />
+
+
+<img width="543" height="602" alt="image" src="https://github.com/user-attachments/assets/9dd3a0a0-2203-4bc7-b948-e0d458f7fd59" />
+
+<img width="627" height="599" alt="image" src="https://github.com/user-attachments/assets/c1bd803c-c27b-4053-b3a5-f9fbddda932c" />
+
+
+
 
 
 
