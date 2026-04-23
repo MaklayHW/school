@@ -1,4 +1,3 @@
-<img width="1071" height="267" alt="Снимок экрана 2026-04-22 в 21 58 26" src="https://github.com/user-attachments/assets/ee5cb6a1-b58d-43f6-9a95-3c6367a05063" />
 ## Part 1
 <img width="254" height="43" alt="image" src="https://github.com/user-attachments/assets/597d8bac-1214-435d-a209-2d625e55a438" />
 
