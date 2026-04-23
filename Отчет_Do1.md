@@ -4,6 +4,7 @@
 
 Узнаем версию Ubuntu, выполнив команду
 cat /etc/issue
+
 ## Part2
 <img width="1100" height="894" alt="Снимок экрана 2026-04-18 в 22 55 30" src="https://github.com/user-attachments/assets/5923e6b2-cb67-46ed-9c83-026c68981f16" />
 
@@ -11,6 +12,7 @@ cat /etc/issue
 <img width="507" height="50" alt="Снимок экрана 2026-04-18 в 22 59 55" src="https://github.com/user-attachments/assets/6295f356-6c93-4e5c-8d36-eaa6fd9dca05" />
 
 Тут показано, что пользователь adm_user находится в группе adm
+
 ### Part3.1
 с помощью команды sudo hostname user-1 задаем название машины 
 <img width="337" height="17" alt="image" src="https://github.com/user-attachments/assets/421bb724-71fb-43c6-b4d9-d2b67136a02d" />
@@ -18,14 +20,17 @@ cat /etc/issue
 
 ### Part3.2
 timedatectl set-timezone Europe/Moscow - меняем часовой пояс на московский(+3)
+
 ### Part3.3
 <img width="2396" height="672" alt="image" src="https://github.com/user-attachments/assets/b43ab35f-7e5b-4ba0-9408-1a2525785ed0" />
 
 тут два сетевых интерфейса: lo, enp0s3. lo это виртуальный сетевой интерфейс, который перенаправляет любой трафик обратно на компьютер, он нужен, например, для обмена данными между клиентскими и серверными приложениями.
-###Part3.4
+
+### Part3.4
 <img width="1758" height="700" alt="image" src="https://github.com/user-attachments/assets/78d1d85c-fe73-48ed-b5b9-8d8e057bdcf9" />
 
 ip адрес на строчке inet, Dynamic Host Configuration Protocol(DHCP)
+
 ### Part3.5
 <img width="1758" height="700" alt="image" src="https://github.com/user-attachments/assets/167aae1b-90d1-4f6d-80ab-1e697aa2f53e" />
 
@@ -37,17 +42,22 @@ sudo nano /etc/netplan/00-installer-config.yaml
 Прописываем, как на скриншоте
 sudo netplan apply
 <img width="507" height="307" alt="image" src="https://github.com/user-attachments/assets/8e2d5f94-d0b7-41ef-adaa-7422f46d0641" />
+
 ### Part3.7
 <img width="538" height="259" alt="image" src="https://github.com/user-attachments/assets/4c60d30f-2ba2-476b-92dc-be7560f434d3" />
 <img width="565" height="343" alt="image" src="https://github.com/user-attachments/assets/95cf25b7-3634-4962-8b8b-35448ca05c7f" />
+
 ## Part4
 <img width="805" height="114" alt="image" src="https://github.com/user-attachments/assets/196c0b61-e884-497a-84f4-e51c17b375a8" />
+
 ## Part5
 <img width="364" height="64" alt="image" src="https://github.com/user-attachments/assets/82a956a8-b12a-4df4-a106-41de1aa67b9e" />
 
 sudo (SuperUser DO) позволяет авторизованным пользователям выполнять команды с привилегиями суперпользователя.
+
 ## Part6
 <img width="350" height="232" alt="image" src="https://github.com/user-attachments/assets/e36c35b2-506b-40be-8d2e-01ec98e947dd" />
+
 ## Part7
 <img width="801" height="610" alt="image" src="https://github.com/user-attachments/assets/d8bb07a3-7df2-4d77-aac0-c5709591f1ee" />
 :wq enter
@@ -72,8 +82,10 @@ ctrl + c, y
 Alt + R, School, enter, uni, enter, a
 <img width="122" height="25" alt="image" src="https://github.com/user-attachments/assets/418c9a4a-5968-44ca-a8aa-1c440fe74610" />
 Ctrl + k, f, r
+
 ## Part 8
 <img width="641" height="95" alt="image" src="https://github.com/user-attachments/assets/d048aa92-bf9e-4d6e-bbd8-3e2b8f2f45a6" />
+
 ## Part 9
 <img width="801" height="606" alt="image" src="https://github.com/user-attachments/assets/61d47890-ca0a-4910-b491-64b694ad8038" />
 784 mem
@@ -91,13 +103,16 @@ Ctrl + k, f, r
 <img width="804" height="601" alt="image" src="https://github.com/user-attachments/assets/f4a35f73-f076-4dbf-a23f-b6c67e5359a6" />
 
 <img width="797" height="598" alt="image" src="https://github.com/user-attachments/assets/7ff2c037-e6d0-4244-98b7-53be55eaaeca" />
+
 ## Part10
 VBOX HARDDISK, 104, 78 GB, 219709440 sectors, swap 4 Gb
+
 ## Part11
 df
 all 52713456 kb, used 6801208 kb, free 43202132 kb, 14%
 df -Th
 all 51 Gb, used 6,5Gb, free 42 Gb, 14%, ext4
+
 ## Part12
 <img width="700" height="294" alt="image" src="https://github.com/user-attachments/assets/5fc3a39e-bb12-4f23-b6e0-65a92b1944a5" />
 <img width="1104" height="1844" alt="image" src="https://github.com/user-attachments/assets/2e163598-be24-4f09-885f-63e83c54e8f2" />
@@ -119,12 +134,16 @@ all 51 Gb, used 6,5Gb, free 42 Gb, 14%, ext4
 
 ## Part14
 <img width="802" height="47" alt="image" src="https://github.com/user-attachments/assets/78f0f060-78ca-42ba-8b0a-b07a06b91b47" />
+
 ## Part15
 
 
 <img width="650" height="85" alt="image" src="https://github.com/user-attachments/assets/ebd264a1-151f-44b3-a296-76e7ad2474b3" />
 
+
 <img width="714" height="100" alt="image" src="https://github.com/user-attachments/assets/83eb8a85-2571-40f1-8f56-76d273611f05" />
+
+<img width="1071" height="267" alt="Снимок экрана 2026-04-22 в 21 58 26" src="https://github.com/user-attachments/assets/ee5cb6a1-b58d-43f6-9a95-3c6367a05063" />
 
 <img width="696" height="150" alt="image" src="https://github.com/user-attachments/assets/b28e6dae-10ee-4158-b735-379b9982a0f2" />
 
