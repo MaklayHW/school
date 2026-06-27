@@ -22,3 +22,7 @@
 12.167.38.4/4 = min 0.0.0.1; max 15.255.255.254
 
 ### Part 1.2
+
+127.0.0.2, 127.1.0.1
+
+<img width="559" height="525" alt="image" src="https://github.com/user-attachments/assets/377edf01-a226-456f-803b-0c6f766ddf33" />
