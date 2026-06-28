@@ -35,4 +35,11 @@
 
 IP-адреса шлюза, которые возможны у сети 10.10.0.0/18: 10.10.0.2; 10.10.10.10; 10.10.1.255 
 
+## Part 2
+
+<img width="883" height="938" alt="image" src="https://github.com/user-attachments/assets/6a273fc0-3e7e-41b5-8759-d8497250b0fc" />
+
+<img width="1629" height="327" alt="image" src="https://github.com/user-attachments/assets/c2caa35d-c49d-435d-bf40-dfa77501d870" />
+
+
 
