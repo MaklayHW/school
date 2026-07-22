@@ -54,6 +54,13 @@ IP-адреса шлюза, которые возможны у сети 10.10.0.
 
 <img width="1233" height="304" alt="image" src="https://github.com/user-attachments/assets/4643f0ce-b4ef-4589-a42e-380a3d08520f" />
 
+## Part 3
+
+8 Mbps = 1 MB/s, 100 MB/s = 800000 Kbps, 1 Gbps = 1000 Mbps
+
+<img width="1419" height="387" alt="image" src="https://github.com/user-attachments/assets/72ec5606-01a7-46ba-a54d-5a71f0e10ebc" />
+
+
 
 
 
