@@ -60,6 +60,14 @@ IP-адреса шлюза, которые возможны у сети 10.10.0.
 
 <img width="1419" height="387" alt="image" src="https://github.com/user-attachments/assets/72ec5606-01a7-46ba-a54d-5a71f0e10ebc" />
 
+## Part 4
+
+<img width="1460" height="238" alt="image" src="https://github.com/user-attachments/assets/4915a8ab-bb42-4832-b728-61f36ba91fdc" />
+
+<img width="1661" height="294" alt="image" src="https://github.com/user-attachments/assets/bd7e2e9e-98c6-4add-93c1-eea0b92b1a11" />
+
+
+
 
 
 
