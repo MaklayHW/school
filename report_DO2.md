@@ -96,6 +96,8 @@ IP-адреса шлюза, которые возможны у сети 10.10.0.
 
 ### Part 5.4
 
+конфигурацию netplan смотри в начале part 5
+
 <img width="606" height="253" alt="image" src="https://github.com/user-attachments/assets/6cac40a4-16fc-42e6-94bf-ab85b9a2b015" />
 
 
