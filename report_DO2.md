@@ -70,6 +70,21 @@ IP-адреса шлюза, которые возможны у сети 10.10.0.
 
 <img width="1512" height="499" alt="image" src="https://github.com/user-attachments/assets/a221f022-4513-4bf6-bede-4163b73c1d38" />
 
+## Part 5
+
+<img width="836" height="591" alt="image" src="https://github.com/user-attachments/assets/a4145eae-03a9-4b1b-ad81-799ba44b5c74" />
+
+<img width="883" height="470" alt="image" src="https://github.com/user-attachments/assets/ade2a0fa-2b95-4476-b557-eab25d2fbc63" />
+
+<img width="856" height="481" alt="image" src="https://github.com/user-attachments/assets/2f3a0a5e-3642-4af2-bc9d-e159fa15922f" />
+
+<img width="839" height="607" alt="image" src="https://github.com/user-attachments/assets/07119a47-4c12-43b6-afc2-96c84d91f6bc" />
+
+<img width="886" height="354" alt="image" src="https://github.com/user-attachments/assets/e8c015eb-c55a-43b3-8622-e58b67db4d70" />
+
+
+
+
 
 
 
