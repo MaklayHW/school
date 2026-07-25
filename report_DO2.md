@@ -94,6 +94,10 @@ IP-адреса шлюза, которые возможны у сети 10.10.0.
 
 <img width="1623" height="580" alt="image" src="https://github.com/user-attachments/assets/3293cb92-4d5d-470c-ba47-171f0913e6ff" />
 
+### Part 5.4
+
+<img width="606" height="253" alt="image" src="https://github.com/user-attachments/assets/6cac40a4-16fc-42e6-94bf-ab85b9a2b015" />
+
 
 
 
