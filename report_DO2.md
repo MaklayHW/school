@@ -102,6 +102,11 @@ IP-адреса шлюза, которые возможны у сети 10.10.0.
 
 <img width="505" height="90" alt="image" src="https://github.com/user-attachments/assets/31ba62a1-ff94-4f33-8c4e-df31eea84235" />
 
+## Part 5.5
+
+<img width="1729" height="786" alt="image" src="https://github.com/user-attachments/assets/f7dd1a0d-ffaa-43f2-ae7e-83f384b8e4b5" />
+
+
 
 
 
