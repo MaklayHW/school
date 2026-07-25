@@ -100,6 +100,9 @@ IP-адреса шлюза, которые возможны у сети 10.10.0.
 
 <img width="606" height="253" alt="image" src="https://github.com/user-attachments/assets/6cac40a4-16fc-42e6-94bf-ab85b9a2b015" />
 
+<img width="505" height="90" alt="image" src="https://github.com/user-attachments/assets/31ba62a1-ff94-4f33-8c4e-df31eea84235" />
+
+
 
 
 
