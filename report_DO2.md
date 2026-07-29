@@ -102,13 +102,27 @@ IP-адреса шлюза, которые возможны у сети 10.10.0.
 
 <img width="505" height="90" alt="image" src="https://github.com/user-attachments/assets/31ba62a1-ff94-4f33-8c4e-df31eea84235" />
 
-## Part 5.5
+### Part 5.5
 
 <img width="1729" height="786" alt="image" src="https://github.com/user-attachments/assets/f7dd1a0d-ffaa-43f2-ae7e-83f384b8e4b5" />
 
-## Part 5.6
+### Part 5.6
 
 <img width="1402" height="152" alt="image" src="https://github.com/user-attachments/assets/ba0c9eb6-266a-4765-ac38-df240ed74384" />
+
+## Part 6
+
+<img width="772" height="759" alt="image" src="https://github.com/user-attachments/assets/0e5a2c03-e877-442b-90a5-87960f141ff2" />
+
+
+<img width="770" height="407" alt="image" src="https://github.com/user-attachments/assets/0abbeb8d-49dc-4903-aa01-e1efc98cef88" />
+
+
+<img width="567" height="156" alt="image" src="https://github.com/user-attachments/assets/fef2585e-fdb5-4442-834d-b7335ca59305" />
+
+
+
+
 
 
 
