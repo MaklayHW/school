@@ -136,6 +136,8 @@ IP-адреса шлюза, которые возможны у сети 10.10.0.
 
 <img width="562" height="270" alt="image" src="https://github.com/user-attachments/assets/5c2d7d44-0b4f-4774-9241-3288eecbad48" />
 
+<img width="861" height="214" alt="image" src="https://github.com/user-attachments/assets/cc07beb8-7722-475e-b5ba-a0fa80f22088" />
+
 
 
 
