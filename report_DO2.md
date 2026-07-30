@@ -140,6 +140,7 @@ IP-адреса шлюза, которые возможны у сети 10.10.0.
 
 
 <img width="524" height="165" alt="image" src="https://github.com/user-attachments/assets/ef7c70bf-aef8-4c46-a4fe-6080efcea123" />
+<img width="329" height="111" alt="image" src="https://github.com/user-attachments/assets/f6074654-c5a4-477a-82b0-0a81e99210ba" />
 
 
 
