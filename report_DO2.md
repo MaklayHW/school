@@ -126,6 +126,8 @@ IP-адреса шлюза, которые возможны у сети 10.10.0.
 
 <img width="416" height="213" alt="image" src="https://github.com/user-attachments/assets/3ca6cbe8-715f-4fee-b0ef-7729c6ce3bc7" />
 
+<img width="846" height="232" alt="image" src="https://github.com/user-attachments/assets/ce08aba2-a78d-44e8-9a5f-3e7f51dfc804" />
+
 
 
 
