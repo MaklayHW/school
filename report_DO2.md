@@ -114,9 +114,7 @@ IP-адреса шлюза, которые возможны у сети 10.10.0.
 
 <img width="772" height="759" alt="image" src="https://github.com/user-attachments/assets/0e5a2c03-e877-442b-90a5-87960f141ff2" />
 
-
 <img width="770" height="407" alt="image" src="https://github.com/user-attachments/assets/0abbeb8d-49dc-4903-aa01-e1efc98cef88" />
-
 
 <img width="567" height="156" alt="image" src="https://github.com/user-attachments/assets/fef2585e-fdb5-4442-834d-b7335ca59305" />
 
@@ -127,6 +125,13 @@ IP-адреса шлюза, которые возможны у сети 10.10.0.
 <img width="416" height="213" alt="image" src="https://github.com/user-attachments/assets/3ca6cbe8-715f-4fee-b0ef-7729c6ce3bc7" />
 
 <img width="846" height="232" alt="image" src="https://github.com/user-attachments/assets/ce08aba2-a78d-44e8-9a5f-3e7f51dfc804" />
+
+## Part 7
+
+<img width="688" height="748" alt="image" src="https://github.com/user-attachments/assets/51b39293-b45d-4c35-9c42-a543d52a7069" />
+
+<img width="572" height="594" alt="image" src="https://github.com/user-attachments/assets/e58c1fb8-e2dc-4635-8b38-e35a3da21977" />
+
 
 
 
